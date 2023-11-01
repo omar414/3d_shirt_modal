@@ -1,0 +1,9 @@
+npm create vite@latest -- --template react client
+npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+tailwindcss with vite
+
+
+
+
+
+API key for active account openAI to use AI futures 
